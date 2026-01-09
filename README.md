@@ -1,24 +1,14 @@
 ## Project Title
 
-Give your project a short, clear title (e.g., "Side Quest Week 1: Interactive Shape Switcher").
+Side Quest 1.
 
 ---
 
-## Group Number (only for group work)
-
-List your group number.
-
----
 
 ## Description
 
-Briefly describe what your project does.  
-Explain what the user will see, how they can interact, and what inspired the design.
+Blue square.
 
-Example:
-
-> This project lets users switch between shapes using keyboard inputs.  
-> It explores how visual feedback can communicate accessibility states.
 
 ---
 
